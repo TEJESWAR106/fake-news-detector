@@ -8,7 +8,6 @@ An NLP-based machine learning web application that classifies news articles as *
 
 👉 [Click here to try the app](https://fake-news-detector-iwpyqqjgzjzbsmap2mzvay.streamlit.app/)
 
-> Replace the link above with your actual Streamlit Cloud URL after deployment.
 
 ---
 
