@@ -128,13 +128,6 @@ The app will open at `http://localhost:8501`
 5. **Evaluation** — Classification report, confusion matrix
 6. **Deployment** — Streamlit web app hosted on Streamlit Cloud
 
----
-
-## 🖼️ App Screenshot
-
-> Add a screenshot of your running app here.
-> In VS Code: take a screenshot → save as `screenshot.png` → place in your project folder
-> Then replace this line with: `![App Screenshot](screenshot.png)`
 
 ---
 
